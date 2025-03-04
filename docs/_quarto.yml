@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "AustinRSharrah.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - About2.qmd
+      - Resume.qmd
+      
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
