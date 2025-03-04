@@ -1,0 +1,11 @@
+---
+title: "Projects"
+about:
+  template: jolla
+  image: IMG_6935.jpg
+  links:
+    - text: Alexander Mountain fire
+      href: https://www.kunc.org/news/2024-08-07/full-containment-of-alexander-mountain-fire-is-in-sight
+---
+
+I am currently a Senior At Colorado State University, perusing my Bachelor's degree in Ecosystem Science and Sustainability. I look to peruse a career in Wildlife law enforcement after gradation. Below you will find a link to the Alexander Mountain Fire. I was able to assist in evacuations and area patrol during this fire.
